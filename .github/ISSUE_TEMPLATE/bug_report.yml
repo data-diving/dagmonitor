@@ -40,11 +40,6 @@ body:
         - MacOS 13
         - MacOS 14
         - MacOS 15
+      default: iOS 18
     validations:
       required: true
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output.
-      render: shell
