@@ -40,6 +40,6 @@ body:
         - MacOS 13
         - MacOS 14
         - MacOS 15
-      default: iOS 18
+      default: 2
     validations:
       required: true
