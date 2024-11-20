@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://dagmonitor.data-diving.com/</loc>
+    <lastmod>2024-02-08T00:20:40+01:00</lastmod>
+  </url><url>
+    <loc>https://dagmonitor.data-diving.com/posts/</loc>
+    <lastmod>2024-02-08T00:20:40+01:00</lastmod>
+  </url><url>
+    <loc>https://dagmonitor.data-diving.com/posts/quickstart/</loc>
+    <lastmod>2024-02-08T00:20:40+01:00</lastmod>
+  </url><url>
+    <loc>https://dagmonitor.data-diving.com/posts/privacypolicy/</loc>
+    <lastmod>2024-02-08T00:05:04+01:00</lastmod>
+  </url><url>
+    <loc>https://dagmonitor.data-diving.com/categories/</loc>
+  </url><url>
+    <loc>https://dagmonitor.data-diving.com/tags/</loc>
+  </url>
+</urlset>

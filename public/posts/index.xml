@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on DAG Monitor</title>
+    <link>https://dagmonitor.data-diving.com/posts/</link>
+    <description>Recent content in Posts on DAG Monitor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Feb 2024 00:20:40 +0100</lastBuildDate>
+    <atom:link href="https://dagmonitor.data-diving.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quickstart</title>
+      <link>https://dagmonitor.data-diving.com/posts/quickstart/</link>
+      <pubDate>Thu, 08 Feb 2024 00:20:40 +0100</pubDate>
+      <guid>https://dagmonitor.data-diving.com/posts/quickstart/</guid>
+      <description>Connect to server Open settings by tapping the three dots
+Enter credentials into the respective form fields and press &amp;ldquo;Save&amp;rdquo;
+Pull down to refresh the list of the DAGs</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://dagmonitor.data-diving.com/posts/privacypolicy/</link>
+      <pubDate>Thu, 08 Feb 2024 00:05:04 +0100</pubDate>
+      <guid>https://dagmonitor.data-diving.com/posts/privacypolicy/</guid>
+      <description>This Privacy Policy document describes how your personal information is handled in the DAG Monitor app.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+We Collect No Personal Information We do not collect, use, save, or have access to any of your personal data recorded in DAG Monitor.
+Individual settings relating to the app are not shared with developer and are stored only on your device.</description>
+    </item>
+  </channel>
+</rss>
