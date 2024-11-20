@@ -12,7 +12,7 @@ body:
     attributes:
       label: What happened?
       description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see! You can attach screenshots using comments once your issue is filed.
+      placeholder: Tell us what you see! You can paste screenshots here.
     validations:
       required: true
   - type: dropdown
