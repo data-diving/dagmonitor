@@ -6,8 +6,15 @@
     <description>Recent content on DAG Monitor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Feb 2024 00:20:40 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 21:42:27 +0100</lastBuildDate>
     <atom:link href="https://dagmonitor.data-diving.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Support</title>
+      <link>https://dagmonitor.data-diving.com/posts/support/</link>
+      <pubDate>Wed, 20 Nov 2024 21:42:27 +0100</pubDate>
+      <guid>https://dagmonitor.data-diving.com/posts/support/</guid>
+      <description>To raise a bug report, request a feature or discuss topics related to the app, please follow this link to GitHub</description>
+    </item>
     <item>
       <title>Quickstart</title>
       <link>https://dagmonitor.data-diving.com/posts/quickstart/</link>
